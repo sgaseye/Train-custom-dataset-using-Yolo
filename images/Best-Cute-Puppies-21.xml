@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Best-Cute-Puppies-21.jpg</filename>
+	<path>C:\yolo pysource\yolo_custom_detection\images\Best-Cute-Puppies-21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>511</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>179</ymin>
+			<xmax>263</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>116</ymin>
+			<xmax>485</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>

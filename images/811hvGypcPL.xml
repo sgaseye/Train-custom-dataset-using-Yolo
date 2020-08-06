@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>811hvGypcPL._AC_UL600_SR600600_.png</filename>
+	<path>C:\yolo pysource\yolo_custom_detection\images\811hvGypcPL._AC_UL600_SR600600_.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>103</ymin>
+			<xmax>534</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

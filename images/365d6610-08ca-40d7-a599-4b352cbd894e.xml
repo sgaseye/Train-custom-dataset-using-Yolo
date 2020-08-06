@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>365d6610-08ca-40d7-a599-4b352cbd894e.jpg</filename>
+	<path>C:\yolo pysource\yolo_custom_detection\images\365d6610-08ca-40d7-a599-4b352cbd894e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>24</ymin>
+			<xmax>648</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>61PrZx-9XQL.jpg</filename>
+	<path>C:\yolo pysource\yolo_custom_detection\images\61PrZx-9XQL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>907</width>
+		<height>1360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>266</ymin>
+			<xmax>869</xmax>
+			<ymax>1321</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cute-puppies-white-silk-cushion-cover-by-stybuzz-cute-puppies-white-silk-cushion-cover-by-stybuzz-sqmvqn.jpg</filename>
+	<path>C:\yolo pysource\yolo_custom_detection\images\cute-puppies-white-silk-cushion-cover-by-stybuzz-cute-puppies-white-silk-cushion-cover-by-stybuzz-sqmvqn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>200</ymin>
+			<xmax>267</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>143</ymin>
+			<xmax>448</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
